@@ -1,0 +1,19 @@
+name: pymc
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - ipython
+  - jupyter
+  - jupyterlab
+  - notebook
+  - matplotlib
+  - seaborn
+  - bokeh
+  - hvplot
+  - ipywidgets
+  - scipy
+  - scikit-learn
+  - cvxpy
+  - pymc3
+  - arviz
